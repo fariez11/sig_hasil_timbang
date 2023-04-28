@@ -56,7 +56,7 @@
 
     
     <script src="assets/front/js/jquery-1.12.1.min.js"></script>
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyBw6bnAk0C2jIDDbz_dVRso9gUEnHLTH68&sensor=false"></script>
+    ///
     <script>
         // var nama = [];
         var keca = [];
