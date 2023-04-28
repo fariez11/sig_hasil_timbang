@@ -55,7 +55,7 @@
     </section>
 
     
-    <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyD9qrkGVP3Udc6Jd9KteihJQ-bnr1nd2M4"></script>
+    ///
     <script type="text/javascript">
     var marker;
       function initialize() {
